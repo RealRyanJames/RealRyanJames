@@ -19,4 +19,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,cpp,c,cs,py,mongo,typescript,nodejs,net,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,cpp,c,cs,py,mongo,typescript,nodejs,net,kotlin,java)](https://skillicons.dev)
