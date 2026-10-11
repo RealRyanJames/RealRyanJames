@@ -1,10 +1,10 @@
 
 -----------------------
 
-<h2>Name: Ryan James</h2>
-<h2>Age: 26</h2>
-<h2>Developer: Enabled</h2>
-<h2>Years Coding and Learning 6 Years - 2020</h2>
+<h3>Name: Ryan James</h3>
+<h3>Age: 26</h>
+<h3>Developer: Enabled</h3>
+<h3>Years Coding and Learning 6 Years - 2020</h3>
 
 <h2 style="font-size: 24px; color: rgb(20, 20, 292);">Welcome to My Profile And My Developer Profile</h2>
 
