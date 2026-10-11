@@ -12,6 +12,6 @@
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;">2: JavaScript + NodeJS | (Tooling)</h3>
 
 
-<h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C# (CLI Development)</h3>
+<h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C#, C++, Rust (CLI Development)</h3>
 
 -----------------------
