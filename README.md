@@ -1,7 +1,7 @@
 
 -----------------------
 
-<h2 style="font-size: 24px; color: rgb(20, 20, 292);">Welcome to My Profile And My Developer Profile</h2>
+<h1 style="font-size: 24px; color: rgb(20, 20, 292);">Welcome to My Profile And My Developer Profile</h1>
 
 <h3 style="font-size: 13px; color: rgb(55, 78, 266); text-transform: uppercase; ">I've Been A <strong>Developer</strong> for 6 Years Since 2020</h3>
 
@@ -13,7 +13,7 @@
 
 ## Most Of Languages I Have Used or Used
 
-<h3 style="background-color: rgb(12, 32, 45); padding: 15px" >1: HTML | CSS | JavaScript (Web-Dev)</h3>
+<h2 style="background-color: rgb(12, 32, 45); padding: 15px" >1: HTML | CSS | JavaScript (Web-Dev)</h2>
 
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;">2: JavaScript + NodeJS | (Tooling)</h3>
 
