@@ -14,6 +14,12 @@
 
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C#, C++, Rust (CLI Development)</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,mongodb" />
+  </a>
+</p>
+ 
 
 <p style="text-align: center;">
   I Always Been About Writing Code By Hand and Always Declined Useages of AI
