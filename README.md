@@ -14,4 +14,8 @@
 
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C#, C++, Rust (CLI Development)</h3>
 
+
+<p>
+  I Always Been About Writing Code By Hand and Always Declined Useages of AI
+ or ChatGPT to Help Coding for me</p>
 -----------------------
