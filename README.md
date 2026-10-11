@@ -13,7 +13,7 @@
 
 ## Most Of Languages I Have Used or Used
 
-<h2 style="background-color: rgb(12, 32, 45); padding: 15px" >1: HTML | CSS | JavaScript (Web-Dev)</h2>
+<h3 style="background-color: rgb(12, 32, 45); padding: 15px" >1: HTML | CSS | JavaScript (Web-Dev)</h3>
 
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;">2: JavaScript + NodeJS | (Tooling)</h3>
 
