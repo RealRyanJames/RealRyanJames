@@ -12,11 +12,11 @@
 <h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;">2: JavaScript + NodeJS | (Tooling)</h3>
 
 
-<h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C#, C++, Rust (CLI Development)</h3>
+<h3 style="padding: 10px; color: rgb(255, 255, 25); font-weight: bold;"> C# (CLI Development)</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mongodb,idea,maven,stackoverflow,windows" />
+    <img src="https://skillicons.dev/icons?i=git,java,mongodb,stackoverflow,windows" />
   </a>
 </p>
  
