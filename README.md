@@ -24,11 +24,5 @@
 <p style="text-align: center;">
   I Always Been About Writing Code By Hand and Always Declined Useages of AI
  or ChatGPT to Help Coding for me</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet" />
-  </a>
-</p>
  
 -----------------------
