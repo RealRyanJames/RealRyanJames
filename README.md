@@ -5,12 +5,6 @@
 
 <h3 style="font-size: 13px; color: rgb(55, 78, 266); text-transform: uppercase; ">I've Been A <strong>Developer</strong> for 6 Years Since 2020</h3>
 
-<h3>Name: Ryan James</h3>
-<h3>Age: 26</h>
-<h3>Developer: Enabled</h3>
-<h3>Years Coding and Learning 6 Years - 2020</h3>
-
-
 ## Most Of Languages I Have Used or Used
 
 <h3 style="background-color: rgb(12, 32, 45); padding: 15px" >1: HTML | CSS | JavaScript (Web-Dev)</h3>
@@ -33,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,cpp,ts,js,c,css,dotnet,html,nodejs,react,vue,nextjs" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet" />
   </a>
 </p>
  
